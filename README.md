@@ -8,7 +8,7 @@ An enterprise-grade Clinical Decision Support System (CDSS) engineered to predic
             │
             ▼ (Structured Risk Analytics Response)
 [Real-Time Visualization & Automated Alert Matrix]
-Installation & Local Deployment GuidePrerequisitesPython 3.10 or higher installed on your local operating system.1. Clone & Set Up the RepositoryBashgit clone https://github.com/your-username/hospital-readmission-ai.git
+Installation & Local Deployment GuidePrerequisitesPython 3.10 or higher installed on your local operating system.1. Clone & Set Up the RepositoryBashgit clone 
 cd hospital-readmission-ai
 2. Configure Virtual Environment & DependenciesCreate your local isolated environment, activate it, and install all required production and infrastructure libraries:Bash# Create Virtual Environment
 python -m venv venv
